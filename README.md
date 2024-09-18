@@ -17,13 +17,7 @@ Comment on any patterns or trends noticed (e.g., higher Na_to_K in one gender).
 Summary:
 A quick summary of insights gained from EDA (e.g., "Males seem to have higher Na_to_K levels on average compared to females").
 # 4. Statistical Analysis
-ANOVA Analysis:
 Explain the purpose of the ANOVA: to check if factors like Sex, BP, and Cholesterol significantly affect Na_to_K levels.
-Present the ANOVA table and highlight significant results (e.g., "Sex is a significant factor influencing Na_to_K levels with 
-𝑝
-=
-0.038
-p=0.038").
 # Regression Analysis:
 Describe the multiple regression model used (dependent variable: Na_to_K, independent variables: Sex, Age, BP).
 Present the coefficients and interpret them (e.g., "Males tend to have a higher Na_to_K ratio, while BP also plays a role").
