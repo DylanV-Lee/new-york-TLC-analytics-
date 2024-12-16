@@ -1,6 +1,6 @@
 # New York TLC Project
 
-![Taxi image](https://github.com/DylanV-Lee/portfolio/blob/339df84c831768a34766ed524d15e67e70ebd179/TLC%20Project.webp)
+![Taxi image](https://github.com/DylanV-Lee/portfolio/blob/3e7b2ea4a96af8b25b86fd031165a091a01c7cf7/TLC%20Project%20(1).webp)
 
 ## Project Overview
 Working for Automatidata, a fictional data consulting firm, as a data professional. The firm was asked by the New York City Taxi and Limousine Commission (TLC) to analyse their extensive taxi trip data. The goal was to uncover key insights and build a predictive model for taxi fares using machine learning. Project had 4 different stages, each answering different questions. 
