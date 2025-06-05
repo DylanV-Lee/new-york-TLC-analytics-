@@ -35,7 +35,12 @@ This project followed four key stages aligned with business objectives:
 
 ### 📂 Data Used
 
-A data dictionary or data card will be linked **[here]**.
+The dataset contains 22,699 yellow taxi ride records from July–August 2017, simulating real-world NYC TLC data.  
+It was used to analyze fare patterns, trip behavior, and operational efficiency.
+
+- 🔍 [Data Overview](about-data/README.md)  
+- 📘 [Data Dictionary](about-data/data_dictionary.md)
+
 
 ---
 
