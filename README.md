@@ -1,7 +1,7 @@
 <h1 align="center">New York TLC Project</h1>
 
 <p align="center">
-  <img src="image-visuals/TLC Project (1).webp" alt="NYC Taxi Project Banner" width="600"/>
+  <img src="image-visuals/TLC Project (1).webp" alt="NYC Taxi Project Banner" width="200"/>
 </p>
 
 ---
